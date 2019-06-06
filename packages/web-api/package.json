@@ -51,7 +51,7 @@
     "eventemitter3": "^3.1.0",
     "form-data": "^2.3.3",
     "is-stream": "^1.1.0",
-    "p-queue": "^2.4.2",
+    "p-queue": "^6.0.1",
     "p-retry": "^4.0.0"
   },
   "devDependencies": {
